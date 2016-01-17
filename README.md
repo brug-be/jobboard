@@ -2,6 +2,10 @@
 
 The job board of Ruby Belgium.
 
+## Open positions
+
+* [Senior/Meriod Ruby on Rails developer at Seal, 2016 Jan 16](20160116_seal_senior_medior_ruby_rails_developer.md)
+
 ## How does it work?
 
 1. You submit your position opening here or on our discussion channel.
