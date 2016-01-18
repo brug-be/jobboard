@@ -4,6 +4,7 @@ The job board of Ruby Belgium.
 
 ## Open positions
 
+* [Ruby on Rails developer at Prospect.io, 2016 Jan 18](20160118_prospectio_rails_developer.md)
 * [Senior/Meriod Ruby on Rails developer at Seal, 2016 Jan 16](20160116_seal_senior_medior_ruby_rails_developer.md)
 
 ## How does it work?
