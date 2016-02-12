@@ -1,6 +1,6 @@
 # Ruby and Angular.js lead developer
 
-Commuty is a young recently seeded startup that is tackling mobility problems of our society. We focus on commutes as they are the main cause of today’s mobility problems. We build mobility tools for the B2B market. In other words, we help companies change their employees commute habits. We have a truckload of ideas that don’t necessarily apply to B2B but we are missing a few more smart people in our team to get it to the next level.
+Commuty (https://commuty.net) is a young recently seeded startup that is tackling mobility problems of our society. We focus on commutes as they are the main cause of today’s mobility problems. We build mobility tools for the B2B market. In other words, we help companies change their employees commute habits. We have a truckload of ideas that don’t necessarily apply to B2B but we are missing a few more smart people in our team to get it to the next level.
 
 Commuty has several large customers in Belgium, including a couple of companies in the BEL20. In the near future, we want to grow our customer base and move forward with new challenges.
 
