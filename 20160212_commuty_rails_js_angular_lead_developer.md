@@ -44,3 +44,4 @@ We’re more looking for attitude than pure skills. If you’re a true smart lea
 ## How to apply?
 
 Drop us a line at wewantyou@commuty.net
+You can send a resume, but showing us code or any acomplishments (talks, blog posts, ...) that you are proud of would be better.
