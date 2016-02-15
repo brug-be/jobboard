@@ -4,6 +4,7 @@ The job board of Ruby Belgium.
 
 ## Open positions
 
+* [Ruby and Angular.js lead developer at Community, 2016 Feb 12](20160212_commuty_rails_js_angular_lead_developer.md)
 * [Rails/React.js developer at PieSync.com, 2016 Jan 28](20160128_piesync_rails_react_developer.md)
 * [Ruby on Rails developer at Prospect.io, 2016 Jan 18](20160118_prospectio_rails_developer.md)
 * [Senior/Meriod Ruby on Rails developer at Seal, 2016 Jan 16](20160116_seal_senior_medior_ruby_rails_developer.md)
