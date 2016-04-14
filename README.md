@@ -4,6 +4,7 @@ The job board of Ruby Belgium.
 
 ## Open positions
 
+* [Backend engineer at Social Apps BVBA, 2016 April 14](20160414_social_apps_backend_engineer.md)
 * [Ruby on Rails developer at D-Sight, 2016 March 15](20160315_dsight_rails_developer.md)
 * [Ruby on Rails developer at DataCamp, 2016 Feb 29](20160225_datacamp_fullstack_engineer.md)
 * [Ruby and Angular.js lead developer at Commuty, 2016 Feb 12](20160212_commuty_rails_js_angular_lead_developer.md)
