@@ -29,7 +29,7 @@ Social Apps BVBA is looking for a passionate and talented backend engineer to wo
 
 * We can offer both employee and freelance positions
 * Competitive salary/rate
-* All the equipment you need (laptop, monitor, a 3D printer in the kitchen :-) )
+* All the equipment you need
 * Working in a small team of passionate and professional developers
 * Working in a spacious beautiful office at Vier Armen/Quatre-Bras in Kraainem https://goo.gl/1KzBaq
 * The owner is himself a developer who takes active part in the project
