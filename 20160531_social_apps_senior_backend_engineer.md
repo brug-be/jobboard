@@ -18,7 +18,7 @@ Social Apps BVBA is looking for a passionate and talented backend engineer to wo
 
 * Experience with devops
 * You like FP and you now what advantages it brings
-* You are curious about modern approached to concurrent programming
+* You are curious about modern concurrent programming
 
 ## Our backend stack is currently:
 
