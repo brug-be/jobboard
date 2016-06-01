@@ -10,6 +10,8 @@ The job board of Ruby Belgium.
 * [Rails/React.js developer at PieSync.com, 2016 Jan 28](20160128_piesync_rails_react_developer.md)
 * [Ruby on Rails developer at Prospect.io, 2016 Jan 18](20160118_prospectio_rails_developer.md)
 * [Senior/Meriod Ruby on Rails developer at Seal, 2016 Jan 16](20160116_seal_senior_medior_ruby_rails_developer.md)
+* [Senior backend engineer at Social Apps BVBA, 2016 May 31](20160531_social_apps_senior_backend_engineer.md)
+* [Junior software engineer at Social Apps BVBA, 2016 May 31](20160531_social_apps_junior_software_engineer.md)
 
 ## How does it work?
 
