@@ -12,6 +12,7 @@ The job board of Ruby Belgium.
 * [Senior/Meriod Ruby on Rails developer at Seal, 2016 Jan 16](20160116_seal_senior_medior_ruby_rails_developer.md)
 * [Senior backend engineer at Social Apps BVBA, 2016 May 31](20160531_social_apps_senior_backend_engineer.md)
 * [Junior software engineer at Social Apps BVBA, 2016 May 31](20160531_social_apps_junior_software_engineer.md)
+* [Full stack/Ruby on Rails developer at Rialto, 2016 July 20](20160720_RIALTO_fullstackdev.md)
 
 ## How does it work?
 
