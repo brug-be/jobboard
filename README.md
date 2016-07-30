@@ -13,6 +13,7 @@ The job board of Ruby Belgium.
 * [Senior backend engineer at Social Apps BVBA, 2016 May 31](20160531_social_apps_senior_backend_engineer.md)
 * [Junior software engineer at Social Apps BVBA, 2016 May 31](20160531_social_apps_junior_software_engineer.md)
 * [Full stack/Ruby on Rails developer at Rialto, 2016 July 20](20160720_RIALTO_fullstackdev.md)
+* [Full stack/Ruby on Rails CTO at ZapFloor, 2016 July 29](20160729_ZapFloor_fullstackRoR_CTO-cofounder.md)
 
 ## How does it work?
 
