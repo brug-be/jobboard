@@ -15,6 +15,8 @@ The job board of Ruby Belgium.
 * [Full stack/Ruby on Rails developer at Rialto, 2016 July 20](20160720_RIALTO_fullstackdev.md)
 * ~~Full stack/Ruby on Rails CTO at <removed>, 2016 July 29~~
 * [Lead Web Developer at BlueSquare, 2016 August 11](20160811_bluesquare_lead_dev_brussels.md)
+* [Front-End Developer at DataCamp, 2016 September 14](20160914_datacamp_front_end_developer.md)
+* [Growth Hacker at DataCamp, 2016 September 14](20160914_datacamp_growth_hacker.md)
 
 ## How does it work?
 
