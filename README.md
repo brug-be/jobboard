@@ -15,6 +15,7 @@ The job board of Ruby Belgium.
 * [Lead Web Developer at BlueSquare, 2016 August 11](20160811_bluesquare_lead_dev_brussels.md)
 * [Front-End Developer at DataCamp, 2016 September 14](20160914_datacamp_front_end_developer.md)
 * [Growth Hacker at DataCamp, 2016 September 14](20160914_datacamp_growth_hacker.md)
+* [Ruby Developer at PlayPass, 2016 October 06](20161006_playpass_ruby_developer.md)
 
 ## How does it work?
 
