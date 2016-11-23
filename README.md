@@ -4,19 +4,19 @@ The job board of Ruby Belgium.
 
 ## Open positions
 
-* [Ruby on Rails developer at D-Sight, 2016 March 15](20160315_dsight_rails_developer.md)
-* [Ruby on Rails developer at DataCamp, 2016 Feb 29](20160225_datacamp_fullstack_engineer.md)
-* [Ruby and Angular.js lead developer at Commuty, 2016 Feb 12](20160212_commuty_rails_js_angular_lead_developer.md)
-* [Rails/React.js developer at PieSync.com, 2016 Jan 28](20160128_piesync_rails_react_developer.md)
-* ~~Ruby on Rails developer at Prospect.io <removed>, 2016 Jan 18~~
-* [Senior/Meriod Ruby on Rails developer at Seal, 2016 Jan 16](20160116_seal_senior_medior_ruby_rails_developer.md)
-* [Full stack/Ruby on Rails developer at Rialto, 2016 July 20](20160720_RIALTO_fullstackdev.md)
-* ~~Full stack/Ruby on Rails CTO at <removed>, 2016 July 29~~
-* [Lead Web Developer at BlueSquare, 2016 August 11](20160811_bluesquare_lead_dev_brussels.md)
-* [Front-End Developer at DataCamp, 2016 September 14](20160914_datacamp_front_end_developer.md)
-* [Growth Hacker at DataCamp, 2016 September 14](20160914_datacamp_growth_hacker.md)
-* [Ruby Developer at PlayPass, 2016 October 06](20161006_playpass_ruby_developer.md)
 * [Lead Web Developer at Prospect.io, 2016 November 22](20161122_prospectio_lead_web_developer.md)
+* [Ruby Developer at PlayPass, 2016 October 06](20161006_playpass_ruby_developer.md)
+* [Growth Hacker at DataCamp, 2016 September 14](20160914_datacamp_growth_hacker.md)
+* [Front-End Developer at DataCamp, 2016 September 14](20160914_datacamp_front_end_developer.md)
+* [Lead Web Developer at BlueSquare, 2016 August 11](20160811_bluesquare_lead_dev_brussels.md)
+* ~~Full stack/Ruby on Rails CTO at <removed>, 2016 July 29~~
+* [Full stack/Ruby on Rails developer at Rialto, 2016 July 20](20160720_RIALTO_fullstackdev.md)
+* [Senior/Meriod Ruby on Rails developer at Seal, 2016 Jan 16](20160116_seal_senior_medior_ruby_rails_developer.md)
+* ~~Ruby on Rails developer at Prospect.io <removed>, 2016 Jan 18~~
+* [Rails/React.js developer at PieSync.com, 2016 Jan 28](20160128_piesync_rails_react_developer.md)
+* [Ruby and Angular.js lead developer at Commuty, 2016 Feb 12](20160212_commuty_rails_js_angular_lead_developer.md)
+* [Ruby on Rails developer at DataCamp, 2016 Feb 29](20160225_datacamp_fullstack_engineer.md)
+* [Ruby on Rails developer at D-Sight, 2016 March 15](20160315_dsight_rails_developer.md)
 
 ## How does it work?
 
