@@ -16,16 +16,16 @@ Een sterke interesse in alles wat systemen en automatisering is handig meegenome
 
 ### Concreet
 
-Ruby kennis, of voldoende andere aantoonbare kennis van object-georienteerd programmeren (bvb, java, c++, c#, python…) en de wil om Ruby te leren
-Rails kennis, of voldoende kennis van frameworks om je hier snel in te bekwamen
-Kennis van moderne ontwikkeltechnieken zoals bv. Coffeescript, SASS, CI-systemen…
-Kennis van Git
-Correct en punctueel kunnen werken
-Interesse in systemen als Redis, Elasticsearch, RabbitMQ, package managers …
-Interesse in systeembeheer, automatisatie en configuratie-manamgement is aardig meegenomen. Kennis van Chef, Puppet, Ansible, ... is een plus
-Test-driven ontwikkelen is je niet vreemd
-Teamspeler, maar ook zelfstandig kunnen werken
-Geen schrik van de terminal, integendeel...
+* Ruby kennis, of voldoende andere aantoonbare kennis van object-georienteerd programmeren (bvb, java, c++, c#, python…) en de wil om Ruby te leren
+* Rails kennis, of voldoende kennis van frameworks om je hier snel in te bekwamen
+* Kennis van moderne ontwikkeltechnieken zoals bv. Coffeescript, SASS, CI-systemen…
+* Kennis van Git
+* Correct en punctueel kunnen werken
+* Interesse in systemen als Redis, Elasticsearch, RabbitMQ, package managers …
+* Interesse in systeembeheer, automatisatie en configuratie-manamgement is aardig meegenomen. Kennis van Chef, Puppet, Ansible, ... is een plus
+* Test-driven ontwikkelen is je niet vreemd
+* Teamspeler, maar ook zelfstandig kunnen werken
+* Geen schrik van de terminal, integendeel...
 
 ## Ons aanbod
 
@@ -35,16 +35,16 @@ Je komt terecht in een groep jonge (en minder jonge) collega's, waar samenwerken
 
 ### Wat krijg je van ons?
 
-Elke maand een mooi bedrag op je bankrekening.
-Maaltijdcheques, groeps- en hospitalisatieverzekering.
-Terugbetaling van je woon-werkverkeer met het openbaar vervoer.
-Terugbetaling van je Telenet-internetabonnement voor thuis.
-Smartphone met abonnement.
-Een MacBook waar je veel stickers op kan kleven.
-De kans om regelmatig te telewerken.
-Budget om jaarlijks een aantal (nationale of internationale) IT-conferenties bij te wonen.
-Budget om zelf je werkplek in te richten.
-Een bedrijfsfiets (swag!).
+* Elke maand een mooi bedrag op je bankrekening.
+* Maaltijdcheques, groeps- en hospitalisatieverzekering.
+* Terugbetaling van je woon-werkverkeer met het openbaar vervoer.
+* Terugbetaling van je Telenet-internetabonnement voor thuis.
+* Smartphone met abonnement.
+* Een MacBook waar je veel stickers op kan kleven.
+* De kans om regelmatig te telewerken.
+* Budget om jaarlijks een aantal (nationale of internationale) IT-conferenties bij te wonen.
+* Budget om zelf je werkplek in te richten.
+* Een bedrijfsfiets (swag!).
  
 ## Dat zie jij wel zitten? Je las tot hier?
 
