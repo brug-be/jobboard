@@ -22,7 +22,7 @@ The job board of Ruby Belgium.
 ## How does it work?
 
 1. You submit your position opening here or on our discussion channel.
-2. We'll reshare your job offer on our channels that you select (here, [Twitter @brug_be](https://twitter.com/brug_be),
+2. We'll reshare your job offer on our channels that you select (here, [Twitter @rubybelgium](https://twitter.com/rubybelgium),
   [dedicated disscussion channel](https://rubyburgers.slack.com/messages/jobs/details/))
 3. If you find the gem you're looking for thanks to us, you pay a small fee of 100EUR and support the association
 4. If you don't play nice, neither will we the next time.
