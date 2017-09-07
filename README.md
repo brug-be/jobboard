@@ -4,6 +4,7 @@ The job board of Ruby Belgium.
 
 ## Open positions
 
+* [Web developer at MyMicroInvest (BXL), 2017 September 7](20170907_mymicroinvest_rails_developer.md)
 * [Lead Web Developer at Prospect.io, 2016 November 22](20161122_prospectio_lead_web_developer.md)
 * [Ruby Developer at PlayPass, 2016 October 06](20161006_playpass_ruby_developer.md)
 * [Growth Hacker at DataCamp, 2016 September 14](20160914_datacamp_growth_hacker.md)
