@@ -18,6 +18,7 @@ The job board of Ruby Belgium.
 * [Ruby on Rails developer at DataCamp, 2016 Feb 29](20160225_datacamp_fullstack_engineer.md)
 * [Ruby on Rails developer at D-Sight, 2016 March 15](20160315_dsight_rails_developer.md)
 * [Ruby on Rails developer at Openminds, 2017 April 12](20170412_openminds_rails_developer.md)
+* [Senior Ruby on Rails developer at Pootsy, 2017 September 26](20170926_pootsy_senior_rails_developer.md)
 
 ## How does it work?
 
