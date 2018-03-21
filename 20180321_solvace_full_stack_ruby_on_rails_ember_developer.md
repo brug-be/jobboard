@@ -18,7 +18,7 @@ To support our rapid growth, we are hiring a full-stack Rails/Ember.js web devel
 * A focus on user experience
 * Excellent problem solving skills, being resourceful
 * Ability to work independently and take responsibility
-* Good communication skills (interaction with marketing/product/platform engineering)
+* Good communication skills
 
 ## What we offer
 
