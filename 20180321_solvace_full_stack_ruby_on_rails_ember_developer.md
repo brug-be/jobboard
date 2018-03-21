@@ -27,4 +27,4 @@ To support our rapid growth, we are hiring a full-stack Rails/Ember.js web devel
 * All the tools you need (Macbook pro, big monitor)
 * Flexible office hours
 * Working in the city centre of Ghent
-* Competitive salary package (Mobile/data subscription, hospital ins)
+* Competitive salary package (Mobile/data subscription, hospital insurance, meal vouchers)
