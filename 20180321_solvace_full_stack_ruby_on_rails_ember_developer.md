@@ -1,6 +1,6 @@
 # Full-stack Rails/Ember.js Web Developer
 
-More info at https://www.solvace.com/jobs.
+Please apply by writing to reinout.declerck@solvace-inc.com.
 
 We build Solvace, a digital platform accelerating the progression and continuous improvement efforts of many leading organisations around the globe.
 
