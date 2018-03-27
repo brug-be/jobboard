@@ -19,7 +19,7 @@ The job board of Ruby Belgium.
 * [Ruby on Rails developer at D-Sight, 2016 March 15](20160315_dsight_rails_developer.md)
 * [Ruby on Rails developer at Openminds, 2017 April 12](20170412_openminds_rails_developer.md)
 * [Senior Ruby on Rails developer at Pootsy, 2017 September 26](20170926_pootsy_senior_rails_developer.md)
-* [Full stack Ruby on Rails / ember developer at Solvace, 2017 September 26](20180321_solvace_full_stack_ruby_on_rails_ember_developer.md)
+* [Full stack Ruby on Rails / ember developer at Solvace, 2018 March 21st](20180321_solvace_full_stack_ruby_on_rails_ember_developer.md)
 
 ## How does it work?
 
