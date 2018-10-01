@@ -20,13 +20,14 @@ The job board of Ruby Belgium.
 * [Ruby on Rails developer at Openminds, 2017 April 12](20170412_openminds_rails_developer.md)
 * [Senior Ruby on Rails developer at Pootsy, 2017 September 26](20170926_pootsy_senior_rails_developer.md)
 * [Full stack Ruby on Rails / ember developer at Solvace, 2018 March 21st](20180321_solvace_full_stack_ruby_on_rails_ember_developer.md)
+* [Rails Developer at Spreds, 2018 October 01](20181001_spreds_full_stack_rails_developer.md)
 
 ## How does it work?
 
 1. You submit your position opening here or on our discussion channel.
 2. We'll reshare your job offer on our channels that you select (here, [Twitter @rubybelgium](https://twitter.com/rubybelgium),
   [dedicated disscussion channel](https://rubyburgers.slack.com/messages/jobs/details/))
-3. If you find the gem you're looking for thanks to us, you pay a small fee of 100EUR and support the association
+3. If you find the gem you're looking for thanks to us, you pay a small fee of €100 and support the association.
 4. If you don't play nice, neither will we the next time.
 
 ## How to submit a position opening?
