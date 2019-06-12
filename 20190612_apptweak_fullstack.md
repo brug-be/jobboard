@@ -1,8 +1,8 @@
-# Full-stack Rails/React Web Developer
+# Full-stack Ruby/React Web Developer
 
 ## The Company
 
-AppTweak is a pioneer ASO platform driven by Data Science which empowers app developers and marketers to improve their app store visibility. Launched in 2014, AppTweak is the easiest and most effective tool to grow app businesses of all sizes.
+[AppTweak](https://www.apptweak.com) is a pioneer ASO platform driven by Data Science which empowers app developers and marketers to improve their app store visibility. Launched in 2014, AppTweak is the easiest and most effective tool to grow app businesses of all sizes.
 
 App Store Optimization is an overwhelming process. Our mission is to provide our clients with a reliable dashboard offering all the data they need to optimize their app keywords, increase their organic downloads and measure their app performance.
 
@@ -29,9 +29,13 @@ You will also design the overall architecture of the web application and evolve 
 
 ## Requirements
 
-* Proficient knowledge of Ruby
+* Proficient knowledge of Ruby experience with Rails is a plus
 * Proficient knowledge of JavaScript, experience with React is a plus
 * Creating database schemas that represent and support business processes
 * Data migration, transformation, and scripting
 * Understanding of fundamental design principles behind a scalable application
 * Proficient understanding of code versioning tools
+
+## How to apply
+
+Please visit our job page : https://jobs.apptweak.com or send and email to lara|at|apptweak.com
