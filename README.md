@@ -22,6 +22,7 @@ The job board of Ruby Belgium.
 * [Full stack Ruby on Rails / ember developer at Solvace, 2018 March 21st](20180321_solvace_full_stack_ruby_on_rails_ember_developer.md)
 * [Full stack Ruby on Rails developer at Prospect.io, 2018 September 18](https://prospect.io/jobs/full-stack-developer)
 * [Rails Developer at Spreds, 2018 October 01](20181001_spreds_full_stack_rails_developer.md)
+* [Rails/React Developer at AppTweak, 2019 June 12](20190612_apptweak_fullstack.md)
 
 ## How does it work?
 
