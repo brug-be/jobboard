@@ -26,6 +26,8 @@ The job board of Ruby Belgium.
 * [Rails API Lead Programmer at IN COMMON, 2019 July 12](20190712_incommon_rails_api_lead_programmer.md)
 * [Full stack Ruby on Rails developer at Security Service Layer, 2019 August 9](20190809-SecurityServiceLayer-Ruby-On-Rails-Developer.md)
 
+=======
+
 ## How does it work?
 
 1. You submit your position opening here or on our discussion channel.
