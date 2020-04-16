@@ -4,6 +4,7 @@ The job board of Ruby Belgium.
 
 ## Open positions
 
+* [Medior Software developer at Flui.city](https://slack-files.com/T02KPU3QY-F011NNUP10D-0f20e8d47b)
 * [Lead Web Developer at Prospect.io, 2016 November 22](20161122_prospectio_lead_web_developer.md)
 * [Ruby Developer at PlayPass, 2016 October 06](20161006_playpass_ruby_developer.md)
 * [Growth Hacker at DataCamp, 2016 September 14](20160914_datacamp_growth_hacker.md)
