@@ -24,7 +24,7 @@ The job board of Ruby Belgium.
 * [Full stack Ruby on Rails developer at Prospect.io, 2018 September 18](https://prospect.io/jobs/full-stack-developer)
 * [Rails Developer at Spreds, 2018 October 01](20181001_spreds_full_stack_rails_developer.md)
 * [Rails/React Developer at AppTweak, 2019 June 12](20190612_apptweak_fullstack.md)
-* [Rails API Lead Programmer at IN COMMON, 2019 July 12](20190712_incommon_rails_api_lead_programmer.md)
+* ~~Rails API Lead Programmer at IN COMMON, 2019 July 12 <removed>~~
 * [Full stack Ruby on Rails developer at Security Service Layer, 2019 August 9](20190809-SecurityServiceLayer-Ruby-On-Rails-Developer.md)
 
 ## How does it work?
