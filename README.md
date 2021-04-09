@@ -26,6 +26,7 @@ The job board of Ruby Belgium.
 * [Rails/React Developer at AppTweak, 2019 June 12](20190612_apptweak_fullstack.md)
 * [Rails API Lead Programmer at IN COMMON, 2019 July 12](20190712_incommon_rails_api_lead_programmer.md)
 * [Full stack Ruby on Rails developer at Security Service Layer, 2019 August 9](20190809-SecurityServiceLayer-Ruby-On-Rails-Developer.md)
+* [Senior Backend Developer at AppTweak, 2021 April 09](20210409_apptweak_senior_backend_developer.md)
 
 ## How does it work?
 
